@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4b414d7-5fe9-4fb3-8aa1-3d04c0d50420" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/DesignPatterns/DAO_Pattern/DaoPatternDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/DesignPatterns/DAO_Pattern/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/DesignPatterns/DAO_Pattern/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/DesignPatterns/DAO_Pattern/StudentDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/DesignPatterns/DAO_Pattern/dao_pattern_uml_diagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/DesignPatterns/SinletonPattern/singleton_pattern_uml_diagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DAO_Pattern/DaoPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DAO_Pattern/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DAO_Pattern/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DAO_Pattern/StudentDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DAO_Pattern/dao_pattern_uml_diagram.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,26 +157,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1577027825840" />
-    <state width="1322" height="108" key="GridCell.Tab.0.bottom" timestamp="1577027770610">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1577042029368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="108" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577027770610" />
-    <state width="1322" height="108" key="GridCell.Tab.0.center" timestamp="1577027770610">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577042029368" />
+    <state width="1322" height="131" key="GridCell.Tab.0.bottom" timestamp="1577041998057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="108" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577027770610" />
-    <state width="1322" height="108" key="GridCell.Tab.0.left" timestamp="1577027770610">
+    <state width="1322" height="131" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577041998057" />
+    <state width="1322" height="131" key="GridCell.Tab.0.center" timestamp="1577041998057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="108" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577027770610" />
-    <state width="1322" height="108" key="GridCell.Tab.0.right" timestamp="1577027770610">
+    <state width="1322" height="131" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577041998057" />
+    <state width="1322" height="131" key="GridCell.Tab.0.left" timestamp="1577041998057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="108" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577027770610" />
+    <state width="1322" height="131" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577041998057" />
+    <state width="1322" height="131" key="GridCell.Tab.0.right" timestamp="1577041998057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="131" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577041998057" />
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1577027384504">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577027384504" />
+    <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577041997377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1577041997377" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1577041695099">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
