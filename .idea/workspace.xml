@@ -35,14 +35,27 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Eleli\IdeaProjects\DesignPatterns\src\DesignPatterns\DAO_Pattern" />
       <recent name="C:\Users\Eleli\IdeaProjects\DesignPatterns\src\DesignPatterns\SinletonPattern" />
       <recent name="C:\Users\Eleli\IdeaProjects\DesignPatterns\src\DesignPatterns\AbstractFactoryPattern" />
       <recent name="C:\Users\Eleli\IdeaProjects\DesignPatterns\src\DesignPatterns" />
       <recent name="C:\Users\Eleli\IdeaProjects\DesignPatterns\src\DesignPatterns\ProxyPattern" />
-      <recent name="C:\Users\Eleli\IdeaProjects\DesignPatterns\src\ProxyPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingletonPatternDemo (1)">
+  <component name="RunManager" selected="Application.DaoPatternDemo">
+    <configuration name="DaoPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.DAO_Pattern.DaoPatternDemo" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPatterns.DAO_Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPatterns.FactoryPattern.FactoryPatternDemo" />
       <module name="DesignPatterns" />
@@ -91,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaoPatternDemo" />
         <item itemvalue="Application.SingletonPatternDemo (1)" />
         <item itemvalue="Application.SingletonPatternDemo" />
         <item itemvalue="Application.FactoryPatternDemo" />
@@ -152,6 +166,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577027384504" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1577041695099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1366.728@0.0.1366.728" timestamp="1577041695099" />
     <state x="65" y="0" key="new project wizard" timestamp="1577027767753">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
